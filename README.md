@@ -2,13 +2,11 @@
 
 
   <h2>Introduction :raised_hands:</h2>
-  <div class="container">
     <div class="left-column">
     안녕하세요! 자기소개입니다!
     </div>
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
 
 <div align=center>
