@@ -2,9 +2,7 @@
 
 <div align=center>
   <h2>Introduction :raised_hands:</h2>
-    <div class="left-column", align=left>
-      안녕하세요! 김윤정(YoonJeong Kim)입니다 (~˙∇˙)~📣<br>
-    </div>
+  안녕하세요! 김윤정(YoonJeong Kim)입니다 (~˙∇˙)~📣<br>
 </div>
 
 <div align=center>
