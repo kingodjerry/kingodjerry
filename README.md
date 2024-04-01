@@ -4,12 +4,14 @@
   <h2>Introduction :raised_hands:</h2>
 </div>
     <div class="left-column", align=left>
-      안녕하세요! 자기소개입니다!<br>
-      저는 누구누구누구입니다.
+      안녕하세요! 김윤정(YoonJeong Kim)입니다 (~˙∇˙)~📣<br>
+      
     </div>
-    <div class="right-column", align=right>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
-    </div>
+
+<div align=center>
+  <h2>Skill :pushpin:</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
+</div>
 
 
 
