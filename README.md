@@ -16,7 +16,7 @@
 
 
 <div align=center>
-<h2>Studying :black_nib:</h2>
+<h2>Tools :black_nib:</h2>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
