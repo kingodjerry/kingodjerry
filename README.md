@@ -4,3 +4,10 @@
 <h2>Introduction :raised_hands:</h2>
 </div>
 
+<div align=center>
+<h2>Studying :black_nib:</h2>
+</div>
+
+<div align=center>
+<h2>Language :wrench:</h2>
+</div>
