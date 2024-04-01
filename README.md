@@ -7,8 +7,6 @@
     저는 누구누구누구입니다.
   </div>
   <div class="right-column" align=right>
-    <h2>Studying :black_nib:</h2>
-    <h2>Language :wrench:</h2>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
   </div>
 </div>
