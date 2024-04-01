@@ -7,6 +7,8 @@
     <div class="left-column", align=left>
       안녕하세요! 자기소개입니다!
     </div>
+  </div>
+  <div class="contatiner">
     <div class="right-column", align=right>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
     </div>
