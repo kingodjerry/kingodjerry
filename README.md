@@ -1,15 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Jerry's%20Github&fontSize=80" />
 
-<div align=center>
-  <h2>Introduction :raised_hands:</h2>
+<div class="container">
+  <div class="left-column" align=left>
+    <h2>Introduction :raised_hands:</h2>
+    안녕하세요! 자기소개입니다!<br>
+    저는 누구누구누구입니다.
+  </div>
+  <div class="right-column" align=right>
+    <h2>Studying :black_nib:</h2>
+    <h2>Language :wrench:</h2>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
+  </div>
 </div>
-    <div class="left-column", align=left>
-      안녕하세요! 자기소개입니다!<br>
-      저는 누구누구누구입니다.
-    </div>
-    <div class="right-column", align=right>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
-    </div>
 
 
 
