@@ -6,7 +6,7 @@
 </div>
 
 <div align=center>
-  <h2>Skill :pushpin:</h2>
+  <h2>Skill :wrench:</h2>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingodjerry" style="display: block;">
 </div>
@@ -17,10 +17,6 @@
 
 <div align=center>
 <h2>Studying :black_nib:</h2>
-</div>
-
-<div align=center>
-<h2>Language :wrench:</h2>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
