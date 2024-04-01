@@ -21,6 +21,6 @@
 <h2>Tools :black_nib:</h2>
 </div>
 
-<div aligh=center>
+<div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
 </div>
