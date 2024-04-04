@@ -6,6 +6,9 @@
   <h2>Introduction :raised_hands:</h2>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello+world%2C+This+is+JERRY'S+GITHUB!)](https://git.io/typing-svg)
+
+  안녕하세요 (*ˊᵕˋ*)ﾉ 경영학전공 4학년 학생 김윤정입니다.
+  
   
 </div>
 
