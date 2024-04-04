@@ -4,7 +4,9 @@
 
 <div align=center>
   <h2>Introduction :raised_hands:</h2>
+  
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BDF8&random=false&width=435&lines=Hello+world+This+is+JERRY'S+GITHUB!)](https://git.io/typing-svg)
+  
 </div>
 
 <div align=center>
