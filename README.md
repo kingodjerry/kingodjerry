@@ -9,7 +9,7 @@
   
 </div>
 
-<div align=center>
+<div>
   <h2>Skills</h2>
   
   **Language**
