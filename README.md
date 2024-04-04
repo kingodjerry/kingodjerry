@@ -1,5 +1,5 @@
-<div align=center>
-  ## Introduction :raised_hands:
+<div>
+  <h2>Introduction :raised_hands:</h2>
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello+world%2C+This+is+JERRY'S+GITHUB!)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 </div>
 
 <div align=center>
-  ## Skill :wrench:
+  <h2>Skill :wrench:</h2>
   
   ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
