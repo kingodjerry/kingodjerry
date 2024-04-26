@@ -20,8 +20,9 @@
 
   **Cloud**
   
-  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  AWS Cloud Practitioner :unlock:
-  <br>
+  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) <br>
+  AWS Cloud Practitioner :unlock:
+ 
 
   **Data/AI**
   
