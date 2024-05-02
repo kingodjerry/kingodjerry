@@ -35,8 +35,8 @@
 <div>
   <h2>Projects</h2>
   <h3>2024년 SW전문가 양성 과정의 프로젝트 목록</h3>
-  1. Object Detection <br>
-  -  YOLOv5 <br>
+  + **Object Detection** <br>
+  -  **YOLOv5** <br>
     - 포트홀 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/Pothole.ipynb <br>
     - 산불 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/wildfire.ipynb <br>
     - 공사장 헬맷 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb <br>
