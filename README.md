@@ -43,5 +43,5 @@
     - 산불 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/wildfire.ipynb <br>
     - 안전모 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb <br>
     - 주차 공간 탐지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/PKLot.ipynb <br>
-    - 개인 프로젝트 / Auto Camera : (예정)
+    - 개인 프로젝트 / Auto Camera : https://github.com/kingodjerry/YOLOv5projects/blob/main/Auto_cam.ipynb <br>
 </div>
