@@ -39,7 +39,7 @@
   **1) Object Detection** <br>
   
   -  **YOLOv5 Fine-tuning** <br>
-    - 포트홀 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/Pothole.ipynb <br>
+    - [포트홀 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/Pothole.ipynb) <br>
     - 산불 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/wildfire.ipynb <br>
     - 안전모 감지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb <br>
     - 주차 공간 탐지 모델 : https://github.com/kingodjerry/YOLOv5projects/blob/main/PKLot.ipynb <br>
