@@ -44,5 +44,7 @@
     - [안전모 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb) <br>
     - [주차 공간 탐지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/PKLot.ipynb) <br>
     - [개인 프로젝트 | Auto Camera](https://github.com/kingodjerry/YOLOv5projects/blob/main/Auto_cam.ipynb) <br>
-      - [개인 프로젝트 | 손동작 인식 자동 촬영 웹앱(진행중)](https://github.com/kingodjerry/auto_camera) <br>
+  -  **실시간 객체 인식** <br>
+     [개인 프로젝트 | 손동작 인식 자동 촬영 웹앱](https://github.com/kingodjerry/auto_camera) <br>
+     [토이 프로젝트 | Grounding DINO](https://github.com/kingodjerry/grounding_dino) <br>
 </div>
