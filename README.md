@@ -37,14 +37,20 @@
   <h3>2024년 SW전문가 양성 과정의 프로젝트 목록</h3>
   
   **1) Object Detection** <br>
-  
   -  **YOLOv5 Fine-tuning** <br>
-    - [포트홀 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/Pothole.ipynb) <br>
-    - [산불 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/wildfire.ipynb) <br>
-    - [안전모 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb) <br>
-    - [주차 공간 탐지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/PKLot.ipynb) <br>
-    - [개인 프로젝트 | Auto Camera](https://github.com/kingodjerry/YOLOv5projects/blob/main/Auto_cam.ipynb) <br>
-  -  **실시간 객체 인식** <br>
-    - [개인 프로젝트 | 손동작 인식 자동 촬영 웹앱](https://github.com/kingodjerry/auto_camera) <br>
-    - [토이 프로젝트 | Grounding DINO](https://github.com/kingodjerry/grounding_dino) <br>
+    [포트홀 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/Pothole.ipynb) <br>
+    [산불 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/wildfire.ipynb) <br>
+    [안전모 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb) <br>
+    [주차 공간 탐지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/PKLot.ipynb) <br>
+    [개인 프로젝트 | Auto Camera](https://github.com/kingodjerry/YOLOv5projects/blob/main/Auto_cam.ipynb) <br>
+  -  **Realtime Object Detection** <br>
+    [개인 프로젝트 | 손동작 인식 자동 촬영 웹앱](https://github.com/kingodjerry/auto_camera) <br>
+    [토이 프로젝트 | Grounding DINO](https://github.com/kingodjerry/grounding_dino) <br>
+
+  <h3>2023년 벤처스타트업SW아카데미 과정의 프로젝트 목록</h3>
+    
+  **1) AI/머신러닝 알고리즘 구현** <br>
+  - **잠재요인 기반 협업 필터링** <br>
+    [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) <br>
+
 </div>
