@@ -37,8 +37,8 @@
   
   **1) Object Detection** <br>
   
-  | Realtime Detection | Toy project |
-  |:---:|:---:|
+  | YOLOv5 | Realtime Detection | Toy project |
+  |:---:|:---:|:---:|
   | [Fine-tuning 프로젝트](https://github.com/kingodjerry/YOLOv5projects) | [손동작 인식 자동촬영 웹앱 프로젝트](https://github.com/kingodjerry/auto_camera) | [토이 프로젝트 : Grounding DINO](https://github.com/kingodjerry/grounding_dino) |
     
   <h3>2023년 벤처스타트업SW아카데미 과정의 프로젝트 목록</h3>
