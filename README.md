@@ -12,23 +12,22 @@
 <div>
   <h2>Skills</h2>
   
-  **Language**
   
-  ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br>
+  **Language**
+  | Python3 | JAVA | C++ |
+  |:---:|:---:|:---:|
+  | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> |
 
   **Cloud**
-  
-  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) <br>
-  AWS Cloud Practitioner :unlock:
- 
+
+  | AWS Cloud Practitioner |
+  |:---:|
+  | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">|
 
   **Data/AI**
-  
-  ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-  ![tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) <br>
+  | tensorflow | Pytorch | tableu |
+  |:---:|:---:|:---:|
+  | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> |
   
 </div>
 
@@ -37,22 +36,17 @@
   <h3>2024년 SW전문가 양성 과정의 프로젝트 목록</h3>
   
   **1) Object Detection** <br>
-  -  **YOLOv5 Fine-tuning** <br>
-    [포트홀 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/Pothole.ipynb) <br>
-    [산불 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/wildfire.ipynb) <br>
-    [안전모 감지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/HardHatWorkers.ipynb) <br>
-    [주차 공간 탐지 모델](https://github.com/kingodjerry/YOLOv5projects/blob/main/PKLot.ipynb) <br>
-    [개인 프로젝트 | Auto Camera](https://github.com/kingodjerry/YOLOv5projects/blob/main/Auto_cam.ipynb) <br>
-  -  **Realtime Object Detection** <br>
-    [개인 프로젝트 | 손동작 인식 자동 촬영 웹앱](https://github.com/kingodjerry/auto_camera) <br>
-    [토이 프로젝트 | Grounding DINO](https://github.com/kingodjerry/grounding_dino) <br>
-
+  
+  | Realtime Detection | Toy project |
+  |:---:|:---:|
+  | [Fine-tuning 프로젝트](https://github.com/kingodjerry/YOLOv5projects) | [손동작 인식 자동촬영 웹앱 프로젝트](https://github.com/kingodjerry/auto_camera) | [토이 프로젝트 : Grounding DINO](https://github.com/kingodjerry/grounding_dino) |
+    
   <h3>2023년 벤처스타트업SW아카데미 과정의 프로젝트 목록</h3>
     
   **1) AI/머신러닝 알고리즘 구현** <br>
-  - **잠재요인 기반 협업 필터링** <br>
-    [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) <br>
-  - **벤처스타트업SW아카데미 해커톤 작품** <br>
-    [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) <br>
+  
+  | 잠재요인 기반 협업 필터링 | 아카데미 해커톤 작품 |
+  |:---:|:---:|
+  | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) |
 
 </div>
