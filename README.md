@@ -52,5 +52,7 @@
   **1) AI/머신러닝 알고리즘 구현** <br>
   - **잠재요인 기반 협업 필터링** <br>
     [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) <br>
+  - **벤처스타트업SW아카데미 해커톤 작품** <br>
+    [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) <br>
 
 </div>
