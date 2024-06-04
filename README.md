@@ -53,9 +53,10 @@
 
 </div>
 
-<div>
-  <h2>About Me</h2>
-  <img src="https://github.com/kingodjerry/kingodjerry/assets/143167244/3c42062c-e16a-4373-a1f2-494cb43bbba8" width=200>
-  <h3>Contact Me</h3>
-  📧 ws.yjkim@gmail.com 
-</div>
+## About Me
+
+[![1opEj](https://github.com/kingodjerry/kingodjerry/assets/143167244/6c66312b-958a-4cc5-82a9-74c9fb054555)](https://misty-apartment-737.notion.site/b5f0c59b12674637b081e51112e55f76?pvs=74)
+<br> QR 코드를 클릭하시거나 촬영해주세요.
+
+### Contact Me
+📧 ws.yjkim@gmail.com 
