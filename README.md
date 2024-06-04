@@ -47,7 +47,7 @@
   
   | 잠재요인 기반 협업 필터링 | 아카데미 해커톤 작품 | Vision Transformer | BERT |
   |:---:|:---:|:---:|:---:|
-  | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) | [ViT from Scratch](https://github.com/kingodjerry/vision_transformer) | [추가중] |
+  | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) | [ViT from Scratch](https://github.com/kingodjerry/vision_transformer) | [감정분석 with FinBERT](https://github.com/kingodjerry/Sentiment_Analysis) |
 
 </div>
 
