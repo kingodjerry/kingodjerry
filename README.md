@@ -57,7 +57,7 @@
 
 ## About Me
 
-[![1opEj](https://github.com/kingodjerry/kingodjerry/assets/143167244/6c66312b-958a-4cc5-82a9-74c9fb054555)](https://misty-apartment-737.notion.site/b5f0c59b12674637b081e51112e55f76?pvs=74)
+[![1opEj](https://github.com/kingodjerry/kingodjerry/assets/143167244/6c66312b-958a-4cc5-82a9-74c9fb054555)](https://misty-apartment-737.notion.site/b5f0c59b12674637b081e51112e55f76?pvs=4)
 <br> QR 코드를 클릭하시거나 촬영해주세요.
 
 ### Contact Me
