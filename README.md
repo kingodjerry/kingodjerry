@@ -47,9 +47,9 @@
     
   **1) AI/머신러닝 알고리즘 구현** <br>
   
-  | 잠재요인 기반 협업 필터링 | 아카데미 해커톤 작품 | Vision Transformer | BERT |
+  | 잠재요인 기반 협업 필터링 | 아카데미 해커톤 작품 | Vision Transformer | finBERT |
   |:---:|:---:|:---:|:---:|
-  | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) | [ViT from Scratch](https://github.com/kingodjerry/vision_transformer) | [감정분석 with FinBERT](https://github.com/kingodjerry/Sentiment_Analysis) |
+  | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) | [ViT from Scratch](https://github.com/kingodjerry/vision_transformer) | [경제뉴스 감정분석을 통한 주가예측](https://github.com/kingodjerry/Sentiment_Analysis) |
 
 </div>
 
