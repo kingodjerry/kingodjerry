@@ -50,3 +50,10 @@
   | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) | [ViT from Scratch](https://github.com/kingodjerry/vision_transformer) |
 
 </div>
+
+<div>
+  <h2>About Me</h2>
+  <img src="https://github.com/kingodjerry/kingodjerry/assets/143167244/3c42062c-e16a-4373-a1f2-494cb43bbba8" width=200>
+  <h3>Contact Me</h3>
+  📧 ws.yjkim@gmail.com 
+</div>
