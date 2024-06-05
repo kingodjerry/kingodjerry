@@ -41,10 +41,15 @@
   
   **1) Object Detection** <br>
   
-  | YOLOv5 | Realtime Detection | Toy project |
+  | YOLOv5 | Realtime Detection | Zero-Shot Learning |
   |:---:|:---:|:---:|
   | [Fine-tuning 프로젝트](https://github.com/kingodjerry/YOLOv5projects) | [손동작 인식 자동촬영 웹앱 프로젝트](https://github.com/kingodjerry/auto_camera) | [토이 프로젝트 : Grounding DINO](https://github.com/kingodjerry/grounding_dino) |
-    
+
+  **2) Humanoid Robot** <br>
+  | Pyserial |
+  |:---:|
+  | [로봇 통신을 위한 Native App](https://github.com/kingodjerry/yolov5_nativeapp) |
+  
   <h3>2023년 벤처스타트업SW아카데미 과정의 프로젝트 목록</h3>
     
   **1) AI/머신러닝 알고리즘 구현** <br>
@@ -52,6 +57,11 @@
   | 잠재요인 기반 협업 필터링 | 아카데미 해커톤 작품 | Vision Transformer | finBERT |
   |:---:|:---:|:---:|:---:|
   | [영화 추천 알고리즘](https://github.com/kingodjerry/recommand_movie) | [게임 추천 알고리즘](https://github.com/kingodjerry/23_hackathon) | [ViT from Scratch](https://github.com/kingodjerry/vision_transformer) | [감정분석을 통한 주가예측](https://github.com/kingodjerry/Sentiment_Analysis) |
+
+  **2) Arduino UNO를 사용한 자율주행** <br>
+  | ALTINO 주행 |
+  |:---:|
+  | (업데이트중) |
 
 </div>
 
