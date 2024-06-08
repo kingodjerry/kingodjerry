@@ -61,7 +61,7 @@
   **2) Arduino UNO를 사용한 자율주행** <br>
   | ALTINO 주행 |
   |:---:|
-  | (업데이트중) |
+  | [자율주행 미션챌린지](https://github.com/kingodjerry/altino) |
 
 </div>
 
