@@ -39,16 +39,21 @@
   <h2>Projects</h2>
   <h3>2024년 SW전문가 양성 과정의 프로젝트 목록</h3>
   
-  **1) Object Detection** <br>
+  **1) Object Detection**   
   
   | YOLOv5 | Realtime Detection | Zero-Shot Learning |
   |:---:|:---:|:---:|
   | [Fine-tuning 프로젝트](https://github.com/kingodjerry/YOLOv5projects) | [손동작 인식 자동촬영 웹앱 프로젝트](https://github.com/kingodjerry/auto_camera) | [토이 프로젝트 : Grounding DINO](https://github.com/kingodjerry/grounding_dino) |
 
-  **2) Humanoid Robot** <br>
+  **2) Humanoid Robot**   
   | Pyserial |
   |:---:|
   | [로봇 통신을 위한 Native App](https://github.com/kingodjerry/yolov5_nativeapp) |
+
+  **3) 팀 프로젝트**   
+  | AI 활용 서비스(헬스케어) |
+  |:---:|
+  | [스마트 루틴 관리 서비스:해방](https://github.com/2024DoNotDisturb/WebAPP) |
   
   <h3>2023년 벤처스타트업SW아카데미 과정의 프로젝트 목록</h3>
     
