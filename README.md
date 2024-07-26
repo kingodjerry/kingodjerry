@@ -38,7 +38,7 @@
   
   **1) Object Detection**   
   
-  | YOLOv5 | Realtime Detection | Zero-Shot Learning |
+  | YOLOv5 | Realtime Detection with YOLOv5 | Zero-Shot Learning |
   |:---:|:---:|:---:|
   | [Fine-tuning 프로젝트](https://github.com/kingodjerry/YOLOv5projects) | [손동작 인식 자동촬영 웹앱 프로젝트](https://github.com/kingodjerry/auto_camera) | [토이 프로젝트 : Grounding DINO](https://github.com/kingodjerry/grounding_dino) |
 
