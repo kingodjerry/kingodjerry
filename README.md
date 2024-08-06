@@ -67,7 +67,7 @@
 
 </div>
 
-### Contact Me
+## Contact Me
 📧 ws.yjkim@gmail.com 
 
 <br>
