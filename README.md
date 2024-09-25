@@ -48,7 +48,7 @@
   | [로봇 통신을 위한 Native App](https://github.com/kingodjerry/yolov5_nativeapp) |
 
   **3) 팀 프로젝트**   
-  | AI 활용 서비스(헬스케어) | 스마트원룸 프로젝트(진행중) |
+  | AI 활용 서비스(헬스케어) | 스마트원룸 프로젝트(조기종료) |
   |:---:|:---:|
   | [스마트 루틴 관리 서비스:해방](https://github.com/2024DoNotDisturb/WebAPP) | [스마트원룸 프로젝트](https://github.com/SmartOneRoom/text_prompt.ver)
   
