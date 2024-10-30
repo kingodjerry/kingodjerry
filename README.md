@@ -39,7 +39,13 @@
 
 <div>
   <h2>Projects</h2>
-  <h3>2024년 SW전문가 양성 과정의 프로젝트 목록</h3>
+  <h3>2024년 프로그래머스 데이터엔니지어링 데브코스 4기</h3>
+  
+  | 1차 프로젝트 | 2차 프로젝트 | 3차 프로젝트 | 4차 프로젝트 |
+  |:---:|:---:|:---:|:---:|
+  | [네이버 뉴스 기사 크롤링, 기업 이미지 감성분석](https://github.com/Team8con-company/sentiment_app) | ... | ... | ... |
+  
+  <h3>2024년 SW전문가 양성 과정</h3>
   
   **1) Object Detection**   
   
@@ -57,7 +63,7 @@
   |:---:|:---:|
   | [스마트 루틴 관리 서비스:해방](https://github.com/2024DoNotDisturb/WebAPP) | [스마트원룸 프로젝트](https://github.com/SmartOneRoom/text_prompt.ver)
   
-  <h3>2023년 벤처스타트업SW아카데미 과정의 프로젝트 목록</h3>
+  <h3>2023년 벤처스타트업SW아카데미 과정</h3>
     
   **1) AI/머신러닝 알고리즘 구현** <br>
   
