@@ -1,18 +1,11 @@
 <div>
   <h2>Introduction</h2>
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hello+world%2C+This+is+JERRY'S+GITHUB!)](https://git.io/typing-svg)
-  
-  안녕하세요 (*ˊᵕˋ*)ﾉ **경영학전공 4학년 학생 김윤정**입니다.   
-  경영학전공생으로 엑셀 쿼리부터 시작하여, 가치 있는 빅데이터 활용을 위해 **데이터 분석, AI(인공지능)를** 배웠으며   
-  현재는 데이터 흐름에 관심을 갖고 데이터 엔지니어링을 공부하고 있습니다!
-
-  주로, **프로젝트 기획, AI 활용 알고리즘 구현과 데이터베이스 관리**를 담당했습니다.   
+  - 안녕하세요. 경영학을 전공한 김윤정입니다(25년 2월 졸업예정) 🙌 <br>
+  - 데이터 엔지니어링 포지션에 관심있으며, Python과 SQL을 주력으로 데이터 엔지니어링 및 웹앱 개발을 공부하고 있습니다! <br>
 </div>
 
 <div>
   <h2>Skills</h2>
-  
   
   **Language**
   | Python3 | C | little bit of JAVA |
@@ -20,21 +13,25 @@
   | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
 
   **Cloud/Database**
-
-  | AWS Cloud Practitioner | MySQL | MariaDB |
-  |:---:|:---:|:---:|
-  | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">| <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> |
+  | AWS Cloud Practitioner | MySQL | MariaDB | Postgresql | 
+  |:---:|:---:|:---:|:---:|
+  | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
 
   **Data/AI**
-  | tensorflow | Pytorch | tableau |
-  |:---:|:---:|:---:|
-  | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> |
+  | Airflow | Tensorflow | Pytorch | Tableau |
+  |:---:|:---:|:---:|:---:|
+  | <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> |
 
   **Framework**
   | Flask | Django |
   |:---:|:---:|
   | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
-  
+
+   **Other**
+   | Docker |
+   |:---:|
+   | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> |
+   
 </div>
 
 <div>
