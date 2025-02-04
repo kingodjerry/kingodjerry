@@ -41,7 +41,7 @@
   
   | 1차 프로젝트 | 2차 프로젝트 | 3차 프로젝트 | 4차 프로젝트 |
   |:---:|:---:|:---:|:---:|
-  | [네이버 뉴스 크롤링, 기업 이미지 감성분석](https://github.com/Team8con-company/sentiment_app) | 한국 소비 트렌드 분석 | Youtube/Spotify 크롤링 | 비트코인 가격예측/분석 플랫폼 |
+  | [네이버 뉴스 크롤링, 기업 이미지 감성분석](https://github.com/Team8con-company/sentiment_app) | 한국 소비 트렌드 분석 | [Youtube/Spotify 크롤링](https://github.com/kingodjerry/music_ismylife) | 비트코인 가격예측/분석 플랫폼 |
   
   <h3>2024년 SW전문가 양성 과정</h3>
   
