@@ -6,36 +6,6 @@
 </div>
 
 <div>
-  <h2>Skills</h2>
-  
-  **Language**
-  | Python3 | C | little bit of JAVA |
-  |:---:|:---:|:---:|
-  | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> | <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> |
-
-  **Cloud/Database**
-  | AWS Cloud Practitioner | MySQL | MariaDB | Postgresql | 
-  |:---:|:---:|:---:|:---:|
-  | <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> | <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> | <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> |
-
-  **Data/AI**
-  | Airflow | Tensorflow | Pytorch | Tableau |
-  |:---:|:---:|:---:|:---:|
-  | <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"> | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"> |
-
-  **Framework**
-  | Flask | Django |
-  |:---:|:---:|
-  | <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> | <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"> |
-
-   **Other**
-   | Docker |
-   |:---:|
-   | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> |
-   
-</div>
-
-<div>
   <h2>Projects</h2>
   <h3>2024년 프로그래머스 데이터엔니지어링 데브코스 4기</h3>
   
